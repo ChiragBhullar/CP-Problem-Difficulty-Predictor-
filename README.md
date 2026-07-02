@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Competitive Programming Difficulty Predictor
 
 A machine learning system that predicts the difficulty tier of a competitive
@@ -101,3 +102,7 @@ python src/predict.py
 
 Codeforces API — free, public, no authentication required for this data:
 https://codeforces.com/apiHelp
+=======
+# CP-Problem-Difficulty-Predictor-
+A machine learning system that predicts the difficulty level of competitive programming problems (Codeforces) using problem metadata such as tags, problem index, contest type, and points.
+>>>>>>> d7c3f6f76e07b0616665986ce6cde140e3251564
