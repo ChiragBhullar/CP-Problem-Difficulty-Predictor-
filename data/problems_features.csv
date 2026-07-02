@@ -1,0 +1,450 @@
+contestId,index,name,type,points,tags,rating,difficulty_bucket,num_tags,index_letter,is_versioned,name_length,has_special_tag,tag_binary_search,tag_bitmasks,tag_brute_force,tag_chinese_remainder_theorem,tag_combinatorics,tag_communication,tag_constructive_algorithms,tag_data_structures,tag_dfs_and_similar,tag_divide_and_conquer,tag_dp,tag_dsu,tag_expression_parsing,tag_fft,tag_flows,tag_games,tag_geometry,tag_graph_matchings,tag_graphs,tag_greedy,tag_hashing,tag_implementation,tag_interactive,tag_math,tag_matrices,tag_number_theory,tag_probabilities,tag_schedules,tag_shortest_paths,tag_sortings,tag_string_suffix_structures,tag_strings,tag_ternary_search,tag_trees,tag_two_pointers
+2236,G,Criterion in Burlandia,PROGRAMMING,1250.0,"['binary search', 'bitmasks', 'brute force', 'data structures', 'dfs and similar', 'divide and conquer', 'implementation', 'trees', 'two pointers']",2600,Expert,9,G,0,22,0,1,1,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+2236,F2,Elections in Saransk (hard version),PROGRAMMING,1250.0,"['combinatorics', 'dp', 'math', 'number theory']",2200,Hard,4,F,1,35,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2236,F1,Elections in Saransk (easy version),PROGRAMMING,1250.0,['number theory'],1700,Medium,1,F,1,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2236,E,Friendly Gifts,PROGRAMMING,1250.0,"['brute force', 'dp']",1700,Medium,2,E,0,14,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2236,D,Brand New Tatar TV Show,PROGRAMMING,1250.0,"['binary search', 'constructive algorithms', 'dp', 'games', 'math']",1300,Medium,5,D,0,23,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2236,C,Omsk Programmers,PROGRAMMING,1250.0,"['brute force', 'greedy', 'math']",1000,Easy,3,C,0,16,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2236,B,Tatar TV Show,PROGRAMMING,1250.0,"['greedy', 'math', 'strings']",800,Easy,3,B,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+2236,A,Games on the Train,PROGRAMMING,1250.0,"['greedy', 'math']",800,Easy,2,A,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2234,G,"Stripe, Token and Two Players",PROGRAMMING,3250.0,"['data structures', 'dp', 'games']",2700,Expert,3,G,0,29,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2234,F,"Vessels, Heights and Two Versions (Hard Version)",PROGRAMMING,1750.0,"['data structures', 'dfs and similar', 'dsu', 'greedy', 'implementation', 'two pointers']",1900,Hard,6,F,1,48,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+2234,E,"Vlad, Misha and Two Arrays",PROGRAMMING,2500.0,"['brute force', 'combinatorics', 'dfs and similar', 'divide and conquer', 'math']",2100,Hard,5,E,0,26,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2234,D,"XOR, Expression and Two Binary Numbers",PROGRAMMING,1750.0,"['bitmasks', 'divide and conquer', 'dp', 'math', 'number theory']",1500,Medium,5,D,0,38,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2234,C,"Vessels, Heights and Two Versions (Easy Version)",PROGRAMMING,1250.0,"['dfs and similar', 'dsu', 'greedy', 'implementation', 'two pointers']",1200,Medium,5,C,1,48,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+2234,B,"Palindrome, Twelve and Two Terms",PROGRAMMING,750.0,"['brute force', 'constructive algorithms', 'math']",800,Easy,3,B,0,32,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2234,A,"Euclid, Sequence and Two Numbers",PROGRAMMING,500.0,"['math', 'number theory', 'sortings']",800,Easy,3,A,0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0
+2233,F,Shortest GCD Paths,PROGRAMMING,1250.0,"['dp', 'graphs', 'math', 'number theory', 'shortest paths']",2800,Expert,5,F,0,18,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+2233,E2,Permutation Transmission (Difficult Version),PROGRAMMING,1250.0,"['bitmasks', 'combinatorics', 'sortings']",2300,Hard,3,E,1,44,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2233,E1,Permutation Transmission (Easy Version),PROGRAMMING,1250.0,"['bitmasks', 'combinatorics', 'sortings']",2200,Hard,3,E,1,39,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2233,D,Goods on the Shelf,PROGRAMMING,1250.0,"['brute force', 'data structures', 'implementation', 'two pointers']",1900,Hard,4,D,0,18,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+2233,C,Cost of a Bracket Sequence,PROGRAMMING,1250.0,"['brute force', 'dp', 'greedy']",1400,Medium,3,C,0,26,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2233,B,Different Distances,PROGRAMMING,1250.0,['constructive algorithms'],900,Easy,1,B,0,19,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2233,A,AI Project Development,PROGRAMMING,1250.0,"['brute force', 'math']",800,Easy,2,A,0,22,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2232,F,The Cake Is a Lie,PROGRAMMING,3250.0,"['greedy', 'math', 'number theory']",3000,Expert,3,F,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2232,E,Snaking Arrangement,PROGRAMMING,2750.0,"['combinatorics', 'constructive algorithms']",2600,Expert,2,E,0,19,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2232,D,Magical Tiered Cake,PROGRAMMING,2000.0,"['constructive algorithms', 'dfs and similar', 'dp', 'greedy']",2000,Hard,4,D,0,19,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2232,C2,Seating Arrangement (Hard Version),PROGRAMMING,1000.0,"['binary search', 'greedy', 'math', 'two pointers']",1500,Medium,4,C,1,34,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+2232,C1,Seating Arrangement (Easy Version),PROGRAMMING,750.0,"['binary search', 'dp', 'greedy', 'two pointers']",1300,Medium,4,C,1,34,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2232,B,Cake Leveling,PROGRAMMING,1000.0,"['binary search', 'greedy', 'math']",900,Easy,3,B,0,13,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2232,A,Convergence,PROGRAMMING,500.0,"['greedy', 'sortings']",800,Easy,2,A,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2231,F,Quadratic Jumps,PROGRAMMING,2750.0,"['brute force', 'constructive algorithms', 'greedy', 'math', 'number theory']",2600,Expert,5,F,0,15,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2231,E,Graph Cutting,PROGRAMMING,2500.0,"['dfs and similar', 'dp', 'math', 'trees']",2300,Hard,4,E,0,13,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+2231,D,Maximum Prefix Sums,PROGRAMMING,2000.0,"['constructive algorithms', 'greedy', 'implementation', 'two pointers']",1900,Hard,4,D,0,19,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+2231,C,Chipmunk Theo and Equality,PROGRAMMING,1250.0,"['implementation', 'sortings']",1400,Medium,2,C,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2231,B,Another Sorting Problem,PROGRAMMING,1000.0,['constructive algorithms'],1100,Easy,1,B,0,23,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2231,A,Construct an Array,PROGRAMMING,500.0,['constructive algorithms'],800,Easy,1,A,0,18,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2230,F,Game on Growing Tree,PROGRAMMING,1250.0,"['binary search', 'dfs and similar', 'divide and conquer', 'dp', 'games', 'implementation', 'trees']",2700,Expert,7,F,0,20,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+2230,E,Minimum Influence,PROGRAMMING,1250.0,"['binary search', 'data structures', 'greedy', 'implementation', 'math', 'sortings', 'two pointers']",2100,Hard,7,E,0,17,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,1
+2230,D,Good Schedule,PROGRAMMING,1250.0,"['dp', 'greedy']",1700,Medium,2,D,0,13,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2230,C,Arrange the Numbers in a Circle,PROGRAMMING,1250.0,"['constructive algorithms', 'implementation', 'math']",1300,Medium,3,C,0,31,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+2230,B,Digit String,PROGRAMMING,1250.0,"['greedy', 'implementation', 'math']",1000,Easy,3,B,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+2230,A,Optimal Purchase,PROGRAMMING,1250.0,"['implementation', 'math']",800,Easy,2,A,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+2229,I,The Endians,PROGRAMMING,5000.0,"['dp', 'trees']",3400,Expert,2,I,0,11,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2229,H,Wowee Binary String,PROGRAMMING,4000.0,"['combinatorics', 'dp', 'strings']",3200,Expert,3,H,0,19,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2229,G,Roadworks,PROGRAMMING,3250.0,"['binary search', 'data structures', 'dp', 'greedy', 'two pointers']",2900,Expert,5,G,0,9,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2229,F,Load Unbalancing,PROGRAMMING,2500.0,"['binary search', 'bitmasks', 'dp', 'greedy']",2400,Expert,4,F,0,16,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2229,E,Deconstruction Tree,PROGRAMMING,2500.0,"['combinatorics', 'data structures', 'dp', 'graphs', 'trees']",2100,Hard,5,E,0,19,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2229,D,Me When Median Problem,PROGRAMMING,2000.0,"['binary search', 'greedy']",1700,Medium,2,D,0,22,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2229,C2,We Be Flipping (Hard Version),PROGRAMMING,1250.0,"['constructive algorithms', 'dp', 'greedy']",1400,Medium,3,C,1,29,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2229,C1,We Be Flipping (Easy Version),PROGRAMMING,750.0,"['constructive algorithms', 'greedy']",900,Easy,2,C,1,29,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2229,B,Absolute Cinema,PROGRAMMING,750.0,"['greedy', 'math']",800,Easy,2,B,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2229,A,Slimes on a Line,PROGRAMMING,500.0,"['brute force', 'greedy', 'math']",800,Easy,3,A,0,16,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2228,F,Momoyo and the Network,PROGRAMMING,3500.0,"['binary search', 'dfs and similar', 'divide and conquer', 'dp', 'trees']",2700,Expert,5,F,0,22,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2228,E2,Amanojaku and Sequence (Hard Version),PROGRAMMING,1500.0,"['combinatorics', 'data structures', 'implementation', 'math']",2500,Expert,4,E,1,37,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+2228,E1,Amanojaku and Sequence (Easy Version),PROGRAMMING,2000.0,"['combinatorics', 'math']",2400,Expert,2,E,1,37,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2228,D,"Sanae, Cross and Color",PROGRAMMING,2500.0,"['binary search', 'data structures', 'implementation']",1900,Hard,3,D,0,22,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2228,C2,Cirno and Number (Hard Version),PROGRAMMING,1000.0,"['binary search', 'dfs and similar', 'dp', 'greedy', 'implementation']",1600,Medium,5,C,1,31,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2228,C1,Cirno and Number (Easy Version),PROGRAMMING,1500.0,"['binary search', 'brute force', 'dp', 'greedy', 'implementation']",1500,Medium,5,C,1,31,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2228,B,Remilia Plays Soku,PROGRAMMING,750.0,"['games', 'implementation']",1100,Easy,2,B,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2228,A,Marisa Steals Reimu's Takeout,PROGRAMMING,500.0,"['greedy', 'implementation']",800,Easy,2,A,0,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2227,H,Fallen Leaves,PROGRAMMING,1250.0,"['dfs and similar', 'dp', 'trees']",2100,Hard,3,H,0,13,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2227,G,Drowning,PROGRAMMING,1250.0,"['binary search', 'data structures', 'math']",2000,Hard,3,G,0,8,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2227,F,It Just Keeps Going Sideways,PROGRAMMING,1250.0,"['binary search', 'data structures', 'dp', 'greedy', 'math']",1700,Medium,5,F,0,28,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2227,E,It All Went Sideways,PROGRAMMING,1250.0,"['binary search', 'data structures', 'dp', 'greedy']",1400,Medium,4,E,0,20,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2227,D,Palindromex,PROGRAMMING,1250.0,"['binary search', 'brute force', 'constructive algorithms', 'data structures', 'greedy', 'implementation', 'two pointers']",1200,Medium,7,D,0,11,0,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+2227,C,Snowfall,PROGRAMMING,1250.0,"['constructive algorithms', 'math']",800,Easy,2,C,0,8,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2227,B,Party Monster,PROGRAMMING,1250.0,['greedy'],800,Easy,1,B,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2227,A,Koshary,PROGRAMMING,1250.0,"['implementation', 'math']",800,Easy,2,A,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+2226,G,Stop Spot,PROGRAMMING,2500.0,"['implementation', 'strings', 'trees']",3000,Expert,3,G,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0
+2226,F,Inversion Invasion,PROGRAMMING,2500.0,"['math', 'number theory']",2800,Expert,2,F,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2226,E,Mental Monumental (Hard Version),PROGRAMMING,2500.0,"['data structures', 'greedy', 'math', 'two pointers']",2300,Hard,4,E,1,32,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+2226,D,Reserved Reversals,PROGRAMMING,2000.0,"['constructive algorithms', 'dp', 'greedy', 'math']",1900,Hard,4,D,0,18,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2226,C,Mental Monumental (Easy Version),PROGRAMMING,1500.0,"['binary search', 'data structures', 'greedy', 'math', 'two pointers']",1500,Medium,5,C,1,32,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+2226,B,Everything Everywhere,PROGRAMMING,750.0,"['greedy', 'math', 'number theory']",900,Easy,3,B,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2226,A,Disturbing Distribution,PROGRAMMING,500.0,"['greedy', 'math']",800,Easy,2,A,0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2225,G,Simple Problem,PROGRAMMING,1250.0,"['brute force', 'graphs', 'greedy', 'number theory']",2900,Expert,4,G,0,14,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2225,F,String Cutting,PROGRAMMING,1250.0,"['binary search', 'brute force', 'greedy', 'hashing', 'string suffix structures', 'strings']",2600,Expert,6,F,0,14,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+2225,E,Covering Points with Circles,PROGRAMMING,1250.0,"['constructive algorithms', 'geometry', 'math']",2200,Hard,3,E,0,28,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2225,D,Exceptional Segments,PROGRAMMING,1250.0,"['bitmasks', 'brute force', 'math']",1500,Medium,3,D,0,20,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2225,C,Red-Black Pairs,PROGRAMMING,1250.0,"['dp', 'greedy']",1100,Easy,2,C,0,15,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2225,B,Alternating String,PROGRAMMING,1250.0,"['brute force', 'greedy']",900,Easy,2,B,0,18,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2225,A,A Number Between Two Others,PROGRAMMING,1250.0,"['greedy', 'math']",800,Easy,2,A,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2224,B,Zhily and Mex and Max,PROGRAMMING,750.0,"['constructive algorithms', 'greedy', 'math', 'sortings']",1200,Medium,4,B,0,21,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+2224,A,Zhily and Array Operating,PROGRAMMING,500.0,"['constructive algorithms', 'greedy']",800,Easy,2,A,0,25,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2223,F,Zhily and Colorful Strings,PROGRAMMING,4500.0,"['divide and conquer', 'fft', 'math']",3400,Expert,3,F,0,26,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2223,E,Zhily and Permutation,PROGRAMMING,3500.0,"['data structures', 'divide and conquer', 'trees']",3500,Expert,3,E,0,21,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2223,D,Zhily and Cycle,PROGRAMMING,2500.0,"['graphs', 'greedy']",2800,Expert,2,D,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2223,C,Zhily and Signpost,PROGRAMMING,1500.0,"['chinese remainder theorem', 'dfs and similar', 'math', 'number theory', 'trees']",2300,Hard,5,C,0,18,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0
+2223,B,Zhily and Barknights,PROGRAMMING,750.0,"['binary search', 'data structures', 'dp', 'math', 'sortings', 'two pointers']",1600,Medium,6,B,0,20,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1
+2223,A,Zhily and Bracket Swapping,PROGRAMMING,500.0,"['constructive algorithms', 'greedy']",1300,Medium,2,A,0,26,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2222,H,Counting Sort?,PROGRAMMING,4000.0,"['brute force', 'combinatorics', 'dp']",3500,Expert,3,H,0,14,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2222,G,Statistics on Tree,PROGRAMMING,3500.0,"['binary search', 'brute force', 'dfs and similar', 'divide and conquer', 'graphs', 'trees']",3100,Expert,6,G,0,18,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2222,F,Building Tree,PROGRAMMING,3000.0,"['data structures', 'divide and conquer', 'dsu', 'graphs', 'implementation']",2600,Expert,5,F,0,13,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2222,E,Seek the Truth,PROGRAMMING,2250.0,"['binary search', 'bitmasks', 'constructive algorithms', 'interactive']",2000,Hard,4,E,0,14,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2222,D,Permutation Construction,PROGRAMMING,2000.0,"['constructive algorithms', 'data structures', 'sortings']",1800,Medium,3,D,0,24,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2222,C,Median Partition,PROGRAMMING,1500.0,"['dp', 'math']",1500,Medium,2,C,0,16,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2222,B,Artistic Balance Tree,PROGRAMMING,1250.0,"['greedy', 'sortings']",1100,Easy,2,B,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2222,A,A Wonderful Contest,PROGRAMMING,500.0,"['brute force', 'dp', 'math']",800,Easy,3,A,0,19,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2220,B,OIE Excursion,PROGRAMMING,1000.0,['greedy'],1200,Medium,1,B,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2220,A,Blocked,PROGRAMMING,500.0,"['greedy', 'sortings']",800,Easy,2,A,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2219,E,Weird Chessboard,PROGRAMMING,3000.0,"['constructive algorithms', 'math']",3500,Expert,2,E,0,16,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2219,D,MEX Replacement on Tree,PROGRAMMING,2250.0,"['data structures', 'implementation', 'math', 'trees']",2700,Expert,4,D,0,23,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0
+2219,C,Coloring a Red Black Tree,PROGRAMMING,1750.0,"['dfs and similar', 'dp', 'greedy', 'math', 'probabilities', 'trees']",2300,Hard,6,C,0,25,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0
+2219,B2,Unique Values (Hard version),PROGRAMMING,500.0,"['binary search', 'bitmasks', 'constructive algorithms', 'interactive']",2000,Hard,4,B,1,28,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2219,B1,Unique Values (Easy version),PROGRAMMING,750.0,"['binary search', 'constructive algorithms', 'divide and conquer', 'interactive', 'math']",1900,Hard,5,B,1,28,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+2219,A,Grid L,PROGRAMMING,500.0,"['brute force', 'constructive algorithms', 'math', 'number theory']",1400,Medium,4,A,0,6,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2218,G,The 67th Iteration of Counting is Fun,PROGRAMMING,1250.0,"['implementation', 'math']",1800,Medium,2,G,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+2218,F,The 67th Tree Problem,PROGRAMMING,1250.0,"['constructive algorithms', 'implementation', 'trees']",1500,Medium,3,F,0,21,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+2218,E,The 67th XOR Problem,PROGRAMMING,1250.0,"['binary search', 'bitmasks', 'brute force']",1200,Medium,3,E,0,20,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2218,D,The 67th OEIS Problem,PROGRAMMING,1250.0,"['constructive algorithms', 'greedy', 'math', 'number theory']",1100,Easy,4,D,0,21,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2218,C,The 67th Permutation Problem,PROGRAMMING,1250.0,"['constructive algorithms', 'greedy', 'math']",800,Easy,3,C,0,28,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2218,B,The 67th 6-7 Integer Problem,PROGRAMMING,1250.0,"['greedy', 'math']",800,Easy,2,B,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2218,A,The 67th Integer Problem,PROGRAMMING,1250.0,"['brute force', 'games', 'implementation', 'math']",800,Easy,4,A,0,24,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+2217,H,Closer,PROGRAMMING,3750.0,"['dfs and similar', 'dp', 'trees']",2800,Expert,3,H,0,6,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2217,G,Down the Pivot,PROGRAMMING,3250.0,"['combinatorics', 'dp', 'math', 'trees']",2600,Expert,4,G,0,14,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+2217,F,Interval Game,PROGRAMMING,2750.0,"['bitmasks', 'combinatorics', 'constructive algorithms', 'dp', 'games', 'greedy', 'math', 'probabilities']",2300,Hard,8,F,0,13,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+2217,E,Definitely Larger,PROGRAMMING,2000.0,"['binary search', 'constructive algorithms', 'data structures', 'graphs', 'greedy', 'sortings']",2000,Hard,6,E,0,17,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2217,D,Flip the Bit (Hard Version),PROGRAMMING,1500.0,"['greedy', 'implementation', 'math']",1900,Hard,3,D,1,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+2217,C,Grid Covering,PROGRAMMING,1500.0,"['chinese remainder theorem', 'math', 'number theory']",1300,Medium,3,C,0,13,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2217,B,Flip the Bit (Easy Version),PROGRAMMING,1000.0,"['greedy', 'implementation']",1000,Easy,2,B,1,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2217,A,The Equalizer,PROGRAMMING,500.0,['math'],800,Easy,1,A,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2216,B,THU Packing Puzzle,PROGRAMMING,1000.0,['greedy'],1300,Medium,1,B,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2216,A,Course Wishes,PROGRAMMING,500.0,['greedy'],900,Easy,1,A,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2215,G,Maze,PROGRAMMING,5000.0,['trees'],3500,Expert,1,G,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2215,F,Research,PROGRAMMING,4000.0,['games'],3500,Expert,1,F,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2215,E,Star Map,PROGRAMMING,3000.0,"['constructive algorithms', 'data structures', 'geometry', 'greedy', 'sortings']",2700,Expert,5,E,0,8,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2215,D,"EXPloration, EXPloitation, and Gain Some EXPerience!",PROGRAMMING,2750.0,"['bitmasks', 'brute force', 'dp', 'greedy', 'implementation']",2800,Expert,5,D,0,52,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2215,C,Oriented Journey,PROGRAMMING,1750.0,"['bitmasks', 'brute force', 'communication', 'constructive algorithms', 'graphs', 'interactive', 'trees']",2200,Hard,7,C,0,16,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+2215,B,RReeppeettiittiioonn,PROGRAMMING,1250.0,"['binary search', 'brute force', 'implementation', 'math', 'number theory']",2000,Hard,5,B,0,20,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+2215,A,Interval Mod,PROGRAMMING,750.0,"['constructive algorithms', 'dp', 'greedy', 'math']",1700,Medium,4,A,0,12,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2211,G,Rational Bubble Sort,PROGRAMMING,3250.0,"['constructive algorithms', 'geometry', 'greedy']",2900,Expert,3,G,0,20,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2211,F,Learning Binary Search,PROGRAMMING,3000.0,"['combinatorics', 'divide and conquer', 'dp', 'math']",2400,Expert,4,F,0,22,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2211,E,Minimum Path Cover,PROGRAMMING,2500.0,"['brute force', 'dp', 'greedy', 'interactive', 'math', 'number theory', 'trees']",2500,Expert,7,E,0,18,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0
+2211,D,AND-array,PROGRAMMING,2000.0,"['bitmasks', 'combinatorics', 'math']",1900,Hard,3,D,0,9,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2211,C2,Equal Multisets (Hard Version),PROGRAMMING,1000.0,"['constructive algorithms', 'dsu', 'greedy']",1800,Medium,3,C,1,30,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2211,C1,Equal Multisets (Easy Version),PROGRAMMING,1250.0,"['binary search', 'brute force', 'greedy', 'two pointers']",1300,Medium,4,C,1,30,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2211,B,Mickey Mouse Constructive,PROGRAMMING,1250.0,"['constructive algorithms', 'dp', 'greedy', 'math']",1100,Easy,4,B,0,25,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2211,A,Antimedian Deletion,PROGRAMMING,500.0,"['implementation', 'math']",800,Easy,2,A,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+2210,F,A Simple Problem,PROGRAMMING,3500.0,"['binary search', 'data structures', 'greedy', 'math', 'trees']",2700,Expert,5,F,0,16,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+2210,E,Binary Strings are Simple?,PROGRAMMING,2750.0,"['constructive algorithms', 'implementation', 'interactive', 'number theory']",2700,Expert,4,E,0,26,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+2210,D,A Simple RBS Problem,PROGRAMMING,2250.0,"['constructive algorithms', 'math', 'strings', 'trees']",2100,Hard,4,D,0,20,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0
+2210,C2,A Simple GCD Problem (Hard Version),PROGRAMMING,1000.0,"['dp', 'greedy', 'number theory']",2100,Hard,3,C,1,35,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2210,C1,A Simple GCD Problem (Easy Version),PROGRAMMING,1250.0,"['greedy', 'number theory']",1200,Medium,2,C,1,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2210,B,Simply Sitting on Chairs,PROGRAMMING,1000.0,"['data structures', 'greedy']",900,Easy,2,B,0,24,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2210,A,A Simple Sequence,PROGRAMMING,500.0,"['constructive algorithms', 'dp', 'greedy', 'number theory']",800,Easy,4,A,0,17,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2209,F,Dynamic Values And Maximum Sum,PROGRAMMING,3000.0,"['data structures', 'greedy', 'implementation', 'trees']",2700,Expert,4,F,0,30,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+2209,E,A Trivial String Problem,PROGRAMMING,2250.0,"['brute force', 'dp', 'hashing', 'string suffix structures', 'strings']",2200,Hard,5,E,0,24,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+2209,D,Ghostfires,PROGRAMMING,1750.0,"['constructive algorithms', 'greedy']",1800,Medium,2,D,0,10,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2209,C,Find the Zero,PROGRAMMING,1500.0,"['constructive algorithms', 'interactive']",1400,Medium,2,C,0,13,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2209,B,Array,PROGRAMMING,750.0,['greedy'],900,Easy,1,B,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2209,A,Flip Flops,PROGRAMMING,500.0,['greedy'],800,Easy,1,A,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2208,E,Counting Cute Arrays,PROGRAMMING,3000.0,"['combinatorics', 'dp']",2700,Expert,2,E,0,20,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2208,D2,Tree Orientation (Hard Version),PROGRAMMING,1250.0,"['dfs and similar', 'dsu', 'graphs', 'greedy', 'sortings', 'trees']",2200,Hard,6,D,1,31,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+2208,D1,Tree Orientation (Easy Version),PROGRAMMING,1250.0,"['constructive algorithms', 'dfs and similar', 'dsu', 'graphs', 'greedy', 'matrices', 'trees']",1800,Medium,7,D,1,31,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+2208,C,Stamina and Tasks,PROGRAMMING,1250.0,"['dp', 'greedy', 'math']",1300,Medium,3,C,0,17,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2208,B,Cyclists,PROGRAMMING,1000.0,"['brute force', 'games', 'greedy', 'implementation', 'math', 'sortings']",1100,Easy,6,B,0,8,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0
+2208,A,Bingo Candies,PROGRAMMING,500.0,"['constructive algorithms', 'math']",800,Easy,2,A,0,13,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2207,G,Toothless,PROGRAMMING,3750.0,"['constructive algorithms', 'dfs and similar', 'dsu']",3300,Expert,3,G,0,9,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2207,F,Hanabi,PROGRAMMING,3250.0,"['binary search', 'data structures', 'dp', 'dsu', 'flows', 'graph matchings', 'graphs', 'greedy']",2900,Expert,8,F,0,6,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2207,D,Boxed Like a Fish,PROGRAMMING,2250.0,"['dfs and similar', 'dp', 'games', 'shortest paths', 'trees']",2200,Hard,5,D,0,17,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+2207,C,Where's My Water?,PROGRAMMING,1500.0,"['data structures', 'divide and conquer', 'dp', 'math']",1600,Medium,4,C,0,17,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2207,B,One Night At Freddy's,PROGRAMMING,1250.0,"['games', 'greedy', 'sortings']",1600,Medium,3,B,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2207,A,1-1,PROGRAMMING,750.0,"['greedy', 'strings']",800,Easy,2,A,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2205,G,Simons and Diophantus Equation,PROGRAMMING,3250.0,"['bitmasks', 'brute force', 'data structures', 'math', 'number theory']",3000,Expert,5,G,0,30,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2205,F,Simons and Reconstructing His Roads,PROGRAMMING,2750.0,"['constructive algorithms', 'data structures', 'dsu', 'graphs']",2400,Expert,4,F,0,35,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2205,E,Simons and Dividing the Rhythm,PROGRAMMING,2500.0,"['combinatorics', 'data structures', 'dp', 'dsu', 'math', 'string suffix structures', 'strings']",2100,Hard,7,E,0,30,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0
+2205,D,Simons and Beating Peaks,PROGRAMMING,1750.0,"['data structures', 'divide and conquer', 'dp', 'greedy', 'implementation', 'trees']",1700,Medium,6,D,0,24,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+2205,C,Simons and Posting Blogs,PROGRAMMING,1250.0,"['greedy', 'sortings']",1500,Medium,2,C,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2205,B,Simons and Cakes for Success,PROGRAMMING,750.0,"['implementation', 'math']",800,Easy,2,B,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+2205,A,Simons and Making It Beautiful,PROGRAMMING,500.0,"['brute force', 'constructive algorithms']",800,Easy,2,A,0,30,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2204,G,Grid Path,PROGRAMMING,1250.0,"['dp', 'graphs', 'matrices']",2700,Expert,3,G,0,9,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2204,F,Sum of Fractions,PROGRAMMING,1250.0,"['binary search', 'brute force', 'combinatorics', 'data structures', 'greedy', 'math', 'number theory', 'two pointers']",2200,Hard,8,F,0,16,0,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1
+2204,E,Sum of Digits (and Again),PROGRAMMING,1250.0,"['brute force', 'constructive algorithms', 'math']",1800,Medium,3,E,0,25,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2204,D,Alternating Path,PROGRAMMING,1250.0,"['constructive algorithms', 'dfs and similar', 'graph matchings', 'graphs']",1400,Medium,4,D,0,16,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2204,C,Spring,PROGRAMMING,1250.0,"['math', 'number theory']",1000,Easy,2,C,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2204,B,Right Maximum,PROGRAMMING,1250.0,['greedy'],800,Easy,1,B,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2204,A,Passing the Ball,PROGRAMMING,1250.0,"['brute force', 'implementation']",800,Easy,2,A,0,16,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2203,F,Binary Search with One Swap,PROGRAMMING,1250.0,"['binary search', 'divide and conquer', 'dp', 'hashing', 'math', 'two pointers']",2600,Expert,6,F,0,27,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+2203,E,Probabilistic Card Game,PROGRAMMING,1250.0,"['binary search', 'data structures', 'games', 'greedy', 'math', 'ternary search']",2200,Hard,6,E,0,23,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+2203,D,Divisibility Game,PROGRAMMING,1250.0,"['brute force', 'games', 'greedy', 'number theory']",1700,Medium,4,D,0,17,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2203,C,Test Generator,PROGRAMMING,1250.0,"['binary search', 'bitmasks', 'greedy', 'math']",1500,Medium,4,C,0,14,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2203,B,Beautiful Numbers,PROGRAMMING,1250.0,"['bitmasks', 'dp', 'fft', 'greedy', 'math']",1000,Easy,5,B,0,17,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2203,A,Towers of Boxes,PROGRAMMING,1250.0,['math'],800,Easy,1,A,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2200,H,Six Seven,PROGRAMMING,1250.0,"['divide and conquer', 'math', 'number theory', 'strings', 'trees']",2600,Expert,5,H,0,9,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0
+2200,G,Operation Permutation,PROGRAMMING,1250.0,"['combinatorics', 'dp', 'math', 'probabilities']",2200,Hard,4,G,0,21,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+2200,F,Mooclear Reactor 2,PROGRAMMING,1250.0,"['brute force', 'data structures', 'greedy', 'implementation', 'sortings']",1900,Hard,5,F,0,18,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2200,E,Divisive Battle,PROGRAMMING,1250.0,"['games', 'greedy', 'math', 'number theory']",1500,Medium,4,E,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2200,D,Portal,PROGRAMMING,1250.0,"['greedy', 'sortings']",1300,Medium,2,D,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2200,C,Specialty String,PROGRAMMING,1250.0,"['brute force', 'greedy', 'strings']",900,Easy,3,C,0,16,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2200,B,Deletion Sort,PROGRAMMING,1250.0,"['bitmasks', 'brute force', 'greedy', 'sortings']",800,Easy,4,B,0,13,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2200,A,Eating Game,PROGRAMMING,1250.0,['greedy'],800,Easy,1,A,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2197,B,Array and Permutation,PROGRAMMING,1000.0,"['implementation', 'schedules', 'sortings', 'two pointers']",1100,Easy,4,B,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,1
+2197,A,Friendly Numbers,PROGRAMMING,500.0,"['binary search', 'brute force', 'expression parsing', 'math', 'schedules']",800,Easy,5,A,0,16,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+2196,F,Indivisible,PROGRAMMING,3500.0,"['brute force', 'constructive algorithms', 'graphs']",3300,Expert,3,F,0,11,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2196,D,Double Bracket Sequence,PROGRAMMING,2250.0,"['data structures', 'dp', 'expression parsing', 'flows', 'greedy', 'strings']",2500,Expert,6,D,0,23,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2196,B,Another Problem about Beautiful Pairs,PROGRAMMING,750.0,"['brute force', 'math', 'two pointers']",1600,Medium,3,B,0,37,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+2196,A,Game with a Fraction,PROGRAMMING,500.0,"['games', 'math']",1200,Medium,2,A,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2195,H,Codeforces Heuristic Contest 001,PROGRAMMING,1250.0,"['brute force', 'constructive algorithms', 'geometry', 'implementation']",2400,Expert,4,H,0,32,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2195,F,Parabola Independence,PROGRAMMING,1250.0,"['dp', 'graphs', 'greedy', 'math', 'sortings']",2000,Hard,5,F,0,21,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+2195,E,Idiot First Search,PROGRAMMING,1250.0,"['dfs and similar', 'dp', 'trees']",1500,Medium,3,E,0,18,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2195,D,Absolute Cinema,PROGRAMMING,1250.0,['math'],1300,Medium,1,D,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2195,C,Dice Roll Sequence,PROGRAMMING,1250.0,"['dp', 'greedy']",1100,Easy,2,C,0,18,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2195,B,Heapify 1,PROGRAMMING,1250.0,"['implementation', 'sortings']",900,Easy,2,B,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2195,A,Sieve of Eratosthenes,PROGRAMMING,1250.0,"['math', 'number theory']",800,Easy,2,A,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2194,E,The Turtle Strikes Back,PROGRAMMING,2500.0,"['dp', 'graphs', 'greedy', 'implementation']",2000,Hard,4,E,0,23,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2194,D,Table Cut,PROGRAMMING,2000.0,"['constructive algorithms', 'greedy', 'implementation']",1600,Medium,3,D,0,9,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2194,C,Secret message,PROGRAMMING,1750.0,"['bitmasks', 'brute force', 'dp', 'math', 'number theory']",1300,Medium,5,C,0,14,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2194,B,Offshores,PROGRAMMING,1000.0,"['greedy', 'implementation', 'math']",1000,Easy,3,B,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+2194,A,Lawn Mower,PROGRAMMING,500.0,"['greedy', 'math']",800,Easy,2,A,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2193,H,Remove the Grail Tree,PROGRAMMING,1250.0,"['dfs and similar', 'dp', 'graphs', 'greedy', 'implementation', 'trees']",2400,Expert,6,H,0,21,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+2193,F,Pizza Delivery,PROGRAMMING,1250.0,"['dp', 'greedy']",1600,Medium,2,F,0,14,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2193,E,Product Queries,PROGRAMMING,1250.0,"['dp', 'math', 'number theory', 'shortest paths']",1300,Medium,4,E,0,15,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+2193,D,Monster Game,PROGRAMMING,1250.0,"['binary search', 'sortings', 'two pointers']",1100,Easy,3,D,0,12,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+2193,C,Replace and Sum,PROGRAMMING,1250.0,"['data structures', 'greedy']",1000,Easy,2,C,0,15,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2193,B,Reverse a Permutation,PROGRAMMING,1250.0,['greedy'],800,Easy,1,B,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2193,A,DBMB and the Array,PROGRAMMING,1250.0,"['brute force', 'math']",800,Easy,2,A,0,18,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2192,F,Fish Fight,PROGRAMMING,3000.0,"['dp', 'math', 'probabilities']",2900,Expert,3,F,0,10,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+2192,D,Cost of Tree,PROGRAMMING,1750.0,"['dp', 'greedy', 'trees']",1800,Medium,3,D,0,12,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2192,C,All-in-one Gun,PROGRAMMING,1250.0,"['binary search', 'greedy', 'math']",1300,Medium,3,C,0,14,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2192,B,Flipping Binary String,PROGRAMMING,1000.0,"['constructive algorithms', 'strings']",1000,Easy,2,B,0,22,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2192,A,String Rotation Game,PROGRAMMING,500.0,"['brute force', 'strings']",800,Easy,2,A,0,20,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2191,B,MEX Reordering,PROGRAMMING,1000.0,"['constructive algorithms', 'sortings']",1000,Easy,2,B,0,14,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2191,A,Array Coloring,PROGRAMMING,500.0,['constructive algorithms'],800,Easy,1,A,0,14,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2190,C,Comparable Permutations,PROGRAMMING,1750.0,"['greedy', 'implementation', 'interactive', 'sortings', 'two pointers']",2300,Hard,5,C,0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,1
+2190,A,Sorting Game,PROGRAMMING,500.0,"['constructive algorithms', 'games', 'greedy']",1200,Medium,3,A,0,12,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2189,E,Majority Wins?,PROGRAMMING,2500.0,"['constructive algorithms', 'greedy', 'math', 'strings']",2600,Expert,4,E,0,14,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+2189,B,The Curse of the Frog,PROGRAMMING,1000.0,"['constructive algorithms', 'greedy', 'math']",1200,Medium,3,B,0,21,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2189,A,Table with Numbers,PROGRAMMING,500.0,"['greedy', 'implementation']",800,Easy,2,A,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2188,B,Seats,PROGRAMMING,1000.0,['greedy'],1000,Easy,1,B,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2188,A,Divisible Permutation,PROGRAMMING,500.0,['constructive algorithms'],800,Easy,1,A,0,21,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2187,B,Shortest Statement Ever,PROGRAMMING,1250.0,"['bitmasks', 'constructive algorithms', 'dp', 'greedy']",1800,Medium,4,B,0,23,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2187,A,Restricted Sorting,PROGRAMMING,750.0,"['greedy', 'sortings']",1300,Medium,2,A,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2185,E,The Robotic Rush,PROGRAMMING,1250.0,"['binary search', 'greedy', 'implementation', 'two pointers']",1500,Medium,4,E,0,16,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+2185,D,OutOfMemoryError,PROGRAMMING,1250.0,"['data structures', 'implementation', 'math', 'two pointers']",1100,Easy,4,D,0,16,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1
+2185,C,Shifted MEX,PROGRAMMING,1250.0,"['implementation', 'sortings']",900,Easy,2,C,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2185,B,Prefix Max,PROGRAMMING,1250.0,['greedy'],800,Easy,1,B,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2185,A,Perfect Root,PROGRAMMING,1250.0,"['constructive algorithms', 'math']",800,Easy,2,A,0,12,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2184,D,Unfair Game,PROGRAMMING,1250.0,"['combinatorics', 'dp', 'math']",1600,Medium,3,D,0,11,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2184,C,Huge Pile,PROGRAMMING,1250.0,"['binary search', 'dfs and similar', 'dp', 'graphs', 'math']",1100,Easy,5,C,0,9,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2184,B,Hourglass,PROGRAMMING,1250.0,['math'],1100,Easy,1,B,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2184,A,Social Experiment,PROGRAMMING,1250.0,['math'],800,Easy,1,A,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2183,E,LCM is Legendary Counting Master,PROGRAMMING,2250.0,"['dp', 'math', 'number theory']",2100,Hard,3,E,0,32,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2183,C,War Strategy,PROGRAMMING,1500.0,"['binary search', 'greedy', 'math', 'two pointers']",1500,Medium,4,C,0,12,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+2183,B,Yet Another MEX Problem,PROGRAMMING,1000.0,"['constructive algorithms', 'greedy']",1100,Easy,2,B,0,23,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2183,A,Binary Array Game,PROGRAMMING,500.0,['games'],800,Easy,1,A,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2182,E,New Year's Gifts,PROGRAMMING,1250.0,"['binary search', 'data structures', 'greedy', 'sortings', 'two pointers']",1800,Medium,5,E,0,16,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+2182,D,Christmas Tree Decoration,PROGRAMMING,1250.0,"['combinatorics', 'dp', 'greedy', 'math']",1600,Medium,4,D,0,25,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2182,C,Production of Snowmen,PROGRAMMING,1250.0,"['brute force', 'combinatorics', 'dp']",1200,Medium,3,C,0,21,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2182,B,New Year Cake,PROGRAMMING,1250.0,['brute force'],800,Easy,1,B,0,13,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2182,A,New Year String,PROGRAMMING,1250.0,"['constructive algorithms', 'greedy', 'implementation', 'strings']",800,Easy,4,A,0,15,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+2181,H,Honey Cake,PROGRAMMING,1250.0,"['brute force', 'math', 'number theory']",1200,Medium,3,H,0,10,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2181,F,Fragmented Nim,PROGRAMMING,1250.0,['games'],1600,Medium,1,F,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2181,D,Doorway,PROGRAMMING,1250.0,"['binary search', 'data structures', 'sortings']",2000,Hard,3,D,0,7,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2181,B,Battle of Arrays,PROGRAMMING,1250.0,"['data structures', 'games', 'greedy']",1400,Medium,3,B,0,16,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2181,A,Alphabet City,PROGRAMMING,1250.0,"['binary search', 'math', 'strings']",1300,Medium,3,A,0,13,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+2180,C,XOR-factorization,PROGRAMMING,1500.0,"['bitmasks', 'constructive algorithms', 'dp', 'greedy', 'number theory']",1900,Hard,5,C,0,17,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2180,B,Ashmal,PROGRAMMING,750.0,"['greedy', 'strings']",800,Easy,2,B,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2180,A,Carnival Wheel,PROGRAMMING,500.0,"['brute force', 'number theory']",800,Easy,2,A,0,14,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2179,D,Blackslex and Penguin Civilization,PROGRAMMING,1250.0,"['bitmasks', 'constructive algorithms', 'greedy', 'math']",1300,Medium,4,D,0,34,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2179,C,Blackslex and Number Theory,PROGRAMMING,1250.0,"['implementation', 'math', 'number theory', 'sortings']",1100,Easy,4,C,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0
+2179,B,Blackslex and Showering,PROGRAMMING,1250.0,"['dp', 'greedy', 'implementation']",800,Easy,3,B,0,23,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2179,A,Blackslex and Password,PROGRAMMING,1250.0,"['math', 'strings']",800,Easy,2,A,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+2178,D,Xmas or Hysteria,PROGRAMMING,1750.0,"['constructive algorithms', 'greedy', 'implementation', 'math']",1700,Medium,4,D,0,16,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+2178,C,First or Second,PROGRAMMING,1250.0,"['dp', 'greedy', 'implementation']",1200,Medium,3,C,0,15,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2178,B,Impost or Sus,PROGRAMMING,750.0,"['dp', 'greedy', 'implementation', 'strings']",900,Easy,4,B,0,13,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+2178,A,Yes or Yes,PROGRAMMING,500.0,"['greedy', 'strings']",800,Easy,2,A,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2176,D,Fibonacci Paths,PROGRAMMING,2000.0,"['data structures', 'dp', 'graphs', 'sortings']",1800,Medium,4,D,0,15,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2176,C,Odd Process,PROGRAMMING,1500.0,"['greedy', 'sortings']",1300,Medium,2,C,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2176,B,Optimal Shifts,PROGRAMMING,1000.0,"['bitmasks', 'greedy', 'strings']",1000,Easy,3,B,0,14,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2176,A,Operations with Inversions,PROGRAMMING,500.0,"['greedy', 'implementation', 'math']",800,Easy,3,A,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+2175,B,XOR Array,PROGRAMMING,750.0,"['constructive algorithms', 'math']",1300,Medium,2,B,0,9,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2175,A,Little Fairy's Painting,PROGRAMMING,500.0,['implementation'],800,Easy,1,A,0,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2174,B,Wishing Cards,PROGRAMMING,1250.0,['dp'],1900,Hard,1,B,0,13,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2174,A,Needle in a Haystack,PROGRAMMING,500.0,"['greedy', 'strings', 'two pointers']",1200,Medium,3,A,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+2173,D,Taiga's Carry Chains,PROGRAMMING,1750.0,"['bitmasks', 'brute force', 'dp', 'greedy', 'math']",1900,Hard,5,D,0,20,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2173,C,Kanade's Perfect Multiples,PROGRAMMING,1250.0,"['brute force', 'constructive algorithms', 'greedy', 'number theory']",1400,Medium,4,C,0,26,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2173,B,Niko's Tactical Cards,PROGRAMMING,1000.0,"['dp', 'greedy', 'math']",1100,Easy,3,B,0,21,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2173,A,Sleeping Through Classes,PROGRAMMING,500.0,"['greedy', 'implementation']",800,Easy,2,A,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2172,M,Maximum Distance To Port,PROGRAMMING,1250.0,"['graphs', 'shortest paths']",1300,Medium,2,M,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2172,F,Cluster Computing System,PROGRAMMING,1250.0,"['graphs', 'greedy', 'math']",1600,Medium,3,F,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2172,E,Number Maze,PROGRAMMING,1250.0,['implementation'],1200,Medium,1,E,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2172,B,Buses,PROGRAMMING,1250.0,"['greedy', 'sortings']",1800,Medium,2,B,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2172,A,ASCII Art Contest,PROGRAMMING,1250.0,['implementation'],800,Easy,1,A,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2171,B,Yuu Koito and Minimum Absolute Sum,PROGRAMMING,1250.0,['math'],900,Easy,1,B,0,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2171,A,Shizuku Hoshikawa and Farm Legs,PROGRAMMING,1250.0,"['brute force', 'math']",800,Easy,2,A,0,31,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2170,C,Quotient and Remainder,PROGRAMMING,1250.0,"['binary search', 'greedy', 'two pointers']",1300,Medium,3,C,0,22,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2170,B,Addition on a Segment,PROGRAMMING,1250.0,"['greedy', 'math']",1200,Medium,2,B,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2170,A,Maximum Neighborhood,PROGRAMMING,1250.0,"['bitmasks', 'brute force', 'greedy', 'implementation', 'math']",800,Easy,5,A,0,20,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+2169,C,Range Operation,PROGRAMMING,1250.0,"['dp', 'greedy', 'math', 'two pointers']",1300,Medium,4,C,0,15,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+2169,B,Drifting Away,PROGRAMMING,1250.0,"['greedy', 'implementation']",1100,Easy,2,B,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2169,A,Alice and Bob,PROGRAMMING,1250.0,"['greedy', 'implementation']",900,Easy,2,A,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2167,G,Mukhammadali and the Smooth Array,PROGRAMMING,1250.0,"['data structures', 'dp']",1600,Medium,2,G,0,33,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2167,D,Yet Another Array Problem,PROGRAMMING,1250.0,"['brute force', 'implementation', 'math', 'number theory']",1000,Easy,4,D,0,25,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+2167,C,Isamatdin and His Magic Wand!,PROGRAMMING,1250.0,"['constructive algorithms', 'greedy', 'implementation', 'sortings']",800,Easy,4,C,0,29,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2167,B,Your Name,PROGRAMMING,1250.0,"['sortings', 'strings']",800,Easy,2,B,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+2167,A,Square?,PROGRAMMING,1250.0,"['math', 'sortings']",800,Easy,2,A,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+2166,B,Tab Closing,PROGRAMMING,750.0,['math'],900,Easy,1,B,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2166,A,Same Difference,PROGRAMMING,500.0,"['brute force', 'greedy', 'strings']",800,Easy,3,A,0,15,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2165,C,Binary Wine,PROGRAMMING,1500.0,"['bitmasks', 'greedy', 'math']",2000,Hard,3,C,0,11,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2165,B,Marble Council,PROGRAMMING,1000.0,"['dp', 'math', 'sortings']",1900,Hard,3,B,0,14,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+2165,A,Cyclic Merging,PROGRAMMING,500.0,"['constructive algorithms', 'greedy']",1300,Medium,2,A,0,14,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2164,D,Copy String,PROGRAMMING,1750.0,"['greedy', 'implementation', 'strings', 'two pointers']",1800,Medium,4,D,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1
+2164,C,Dungeon,PROGRAMMING,1500.0,"['binary search', 'brute force', 'data structures', 'greedy', 'sortings']",1400,Medium,5,C,0,7,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2164,B,Even Modulo Pair,PROGRAMMING,750.0,"['brute force', 'math', 'number theory']",1000,Easy,3,B,0,16,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2164,A,Sequence Game,PROGRAMMING,500.0,"['brute force', 'sortings']",800,Easy,2,A,0,13,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2163,C,Monopati,PROGRAMMING,1250.0,"['brute force', 'combinatorics', 'dp', 'math', 'two pointers']",1500,Medium,5,C,0,8,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+2163,B,Siga ta Kymata,PROGRAMMING,1000.0,"['constructive algorithms', 'greedy', 'implementation', 'math']",1700,Medium,4,B,0,14,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+2163,A,Souvlaki VS. Kalamaki,PROGRAMMING,500.0,"['brute force', 'greedy', 'math', 'sortings']",800,Easy,4,A,0,21,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+2162,E,Beautiful Palindromes,PROGRAMMING,1250.0,"['constructive algorithms', 'greedy', 'schedules']",1600,Medium,3,E,0,21,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+2162,D,Beautiful Permutation,PROGRAMMING,1250.0,"['binary search', 'interactive']",1400,Medium,2,D,0,21,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2162,C,Beautiful XOR,PROGRAMMING,1250.0,"['bitmasks', 'constructive algorithms', 'greedy']",1100,Easy,3,C,0,13,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2162,B,Beautiful String,PROGRAMMING,1250.0,"['brute force', 'constructive algorithms']",1000,Easy,2,B,0,16,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2162,A,Beautiful Average,PROGRAMMING,1250.0,"['brute force', 'greedy']",800,Easy,2,A,0,17,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2161,C,Loyalty,PROGRAMMING,1750.0,"['constructive algorithms', 'greedy', 'sortings', 'two pointers']",1200,Medium,4,C,0,7,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+2161,B,Make Connected,PROGRAMMING,1000.0,"['brute force', 'implementation']",1700,Medium,2,B,0,14,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2161,A,Round Trip,PROGRAMMING,500.0,"['games', 'greedy', 'implementation', 'math']",800,Easy,4,A,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+2160,C,Reverse XOR,PROGRAMMING,1250.0,['bitmasks'],1300,Medium,1,C,0,11,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2160,B,Distinct Elements,PROGRAMMING,1000.0,"['greedy', 'math']",1100,Easy,2,B,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2160,A,MEX Partition,PROGRAMMING,500.0,['math'],800,Easy,1,A,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2158,C,Annoying Game,PROGRAMMING,1500.0,"['dp', 'games', 'greedy']",1400,Medium,3,C,0,13,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2158,B,Split,PROGRAMMING,1250.0,"['constructive algorithms', 'greedy', 'math']",1200,Medium,3,B,0,5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2158,A,Suspension,PROGRAMMING,500.0,"['constructive algorithms', 'greedy', 'math']",800,Easy,3,A,0,10,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2157,D,Billion Players Game,PROGRAMMING,1500.0,"['binary search', 'greedy', 'math', 'sortings', 'ternary search', 'two pointers']",1600,Medium,6,D,0,20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,1
+2157,C,Meximum Array 2,PROGRAMMING,1500.0,"['constructive algorithms', 'greedy', 'implementation', 'math']",1400,Medium,4,C,0,15,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+2157,B,Expansion Plan 2,PROGRAMMING,1000.0,"['implementation', 'math']",900,Easy,2,B,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+2157,A,Dungeon Equilibrium,PROGRAMMING,500.0,"['greedy', 'implementation', 'sortings']",800,Easy,3,A,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2156,C,Maximum GCD on Whiteboard,PROGRAMMING,1500.0,"['greedy', 'math', 'number theory']",1400,Medium,3,C,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2156,B,Strange Machine,PROGRAMMING,750.0,"['binary search', 'brute force', 'greedy', 'implementation']",1000,Easy,4,B,0,15,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2156,A,Pizza Time,PROGRAMMING,500.0,"['brute force', 'constructive algorithms', 'greedy']",800,Easy,3,A,0,10,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2155,C,The Ancient Wizards' Capes,PROGRAMMING,1750.0,"['brute force', 'greedy', 'implementation']",1500,Medium,3,C,0,26,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2155,B,Abraham's Great Escape,PROGRAMMING,1000.0,"['constructive algorithms', 'graphs']",1100,Easy,2,B,0,22,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2155,A,El fucho,PROGRAMMING,500.0,"['implementation', 'math']",800,Easy,2,A,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+2154,B,Make it Zigzag,PROGRAMMING,1000.0,"['constructive algorithms', 'greedy']",1000,Easy,2,B,0,14,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2154,A,Notelock,PROGRAMMING,500.0,"['greedy', 'two pointers']",800,Easy,2,A,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2153,D,Not Alone,PROGRAMMING,1750.0,"['dp', 'greedy']",1800,Medium,2,D,0,9,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2153,C,Symmetrical Polygons,PROGRAMMING,1250.0,"['constructive algorithms', 'geometry', 'greedy', 'implementation', 'sortings']",1500,Medium,5,C,0,20,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2153,B,Bitwise Reversion,PROGRAMMING,750.0,"['bitmasks', 'greedy']",800,Easy,2,B,0,17,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2153,A,Circle of Apple Trees,PROGRAMMING,500.0,"['greedy', 'sortings']",800,Easy,2,A,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2152,D,Division Versus Addition,PROGRAMMING,2500.0,"['games', 'greedy', 'math']",1700,Medium,3,D,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2152,C,Triple Removal,PROGRAMMING,1500.0,"['data structures', 'greedy', 'math']",1400,Medium,3,C,0,14,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2152,B,Catching the Krug,PROGRAMMING,1500.0,['games'],1300,Medium,1,B,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2152,A,Increase or Smash,PROGRAMMING,500.0,"['greedy', 'implementation']",800,Easy,2,A,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2151,C,Incremental Stay,PROGRAMMING,1250.0,"['greedy', 'implementation', 'math']",1400,Medium,3,C,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+2151,A,Incremental Subarray,PROGRAMMING,500.0,"['math', 'strings']",800,Easy,2,A,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+2150,C,Limited Edition Shop,PROGRAMMING,1750.0,"['data structures', 'dp']",2100,Hard,2,C,0,20,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2150,B,Grid Counting,PROGRAMMING,1000.0,"['combinatorics', 'implementation', 'math']",1700,Medium,3,B,0,13,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+2150,A,Incremental Path,PROGRAMMING,500.0,"['data structures', 'hashing', 'implementation']",1300,Medium,3,A,0,16,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2149,E,Hidden Knowledge of the Ancients,PROGRAMMING,1250.0,"['data structures', 'two pointers']",1500,Medium,2,E,0,32,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2149,D,A and B,PROGRAMMING,1250.0,['strings'],1200,Medium,1,D,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2149,C,MEX rose,PROGRAMMING,1250.0,['greedy'],900,Easy,1,C,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2149,B,Unconventional Pairs,PROGRAMMING,1250.0,"['greedy', 'sortings']",800,Easy,2,B,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2149,A,Be Positive,PROGRAMMING,1250.0,['math'],800,Easy,1,A,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2148,E,Split,PROGRAMMING,1250.0,"['binary search', 'data structures', 'two pointers']",1200,Medium,3,E,0,5,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2148,D,Destruction of the Dandelion Fields,PROGRAMMING,1250.0,"['constructive algorithms', 'greedy', 'sortings']",1000,Easy,3,D,0,35,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2148,C,Pacer,PROGRAMMING,1250.0,"['greedy', 'math']",900,Easy,2,C,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2148,B,Lasers,PROGRAMMING,1250.0,['geometry'],800,Easy,1,B,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2148,A,Sublime Sequence,PROGRAMMING,1250.0,"['brute force', 'hashing', 'math']",800,Easy,3,A,0,16,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2147,D,Game on Array,PROGRAMMING,2000.0,"['games', 'greedy']",1700,Medium,2,D,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2147,C,Rabbits,PROGRAMMING,1500.0,"['constructive algorithms', 'dp', 'greedy', 'implementation']",1500,Medium,4,C,0,7,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2147,B,Multiple Construction,PROGRAMMING,1000.0,['constructive algorithms'],1000,Easy,1,B,0,21,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2147,A,Shortest Increasing Path,PROGRAMMING,500.0,"['constructive algorithms', 'greedy']",800,Easy,2,A,0,24,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2146,C,Wrong Binary Search,PROGRAMMING,1250.0,"['binary search', 'constructive algorithms']",1300,Medium,2,C,0,19,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2146,B,Merging the Sets,PROGRAMMING,1000.0,"['greedy', 'implementation']",1100,Easy,2,B,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2146,A,Equal Occurrences,PROGRAMMING,500.0,"['brute force', 'greedy', 'implementation']",800,Easy,3,A,0,17,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2145,D,Inversion Value of a Permutation,PROGRAMMING,1250.0,"['constructive algorithms', 'dfs and similar', 'dp']",1800,Medium,3,D,0,32,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2145,C,Monocarp's String,PROGRAMMING,1250.0,"['binary search', 'greedy', 'strings']",1300,Medium,3,C,0,17,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2145,B,Deck of Cards,PROGRAMMING,1250.0,"['greedy', 'implementation']",1000,Easy,2,B,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2145,A,Candies for Nephews,PROGRAMMING,1250.0,['math'],800,Easy,1,A,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2144,D,Price Tags,PROGRAMMING,1250.0,"['brute force', 'dp', 'math']",1800,Medium,3,D,0,10,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2144,C,Non-Descending Arrays,PROGRAMMING,1250.0,"['combinatorics', 'dp', 'math']",1300,Medium,3,C,0,21,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2144,B,Maximum Cost Permutation,PROGRAMMING,1250.0,"['constructive algorithms', 'greedy']",1000,Easy,2,B,0,24,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2144,A,Cut the Array,PROGRAMMING,1250.0,"['brute force', 'constructive algorithms', 'math', 'number theory']",800,Easy,4,A,0,13,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2143,C,Max Tree,PROGRAMMING,1500.0,"['constructive algorithms', 'dfs and similar', 'graphs', 'greedy']",1300,Medium,4,C,0,8,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2143,B,Discounts,PROGRAMMING,1000.0,"['greedy', 'sortings', 'two pointers']",1000,Easy,3,B,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+2143,A,All Lengths Subtraction,PROGRAMMING,500.0,"['brute force', 'two pointers']",800,Easy,2,A,0,23,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2140,D,A Cruel Segment's Thesis,PROGRAMMING,1750.0,"['data structures', 'greedy', 'sortings']",2000,Hard,3,D,0,24,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2140,C,Ultimate Value,PROGRAMMING,1250.0,"['data structures', 'games', 'greedy']",1500,Medium,3,C,0,14,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2140,B,Another Divisibility Problem,PROGRAMMING,1000.0,"['constructive algorithms', 'math', 'number theory']",900,Easy,3,B,0,28,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2140,A,Shift Sort,PROGRAMMING,500.0,"['greedy', 'sortings']",800,Easy,2,A,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2139,B,Cake Collection,PROGRAMMING,1000.0,['greedy'],800,Easy,1,B,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2139,A,Maple and Multiplication,PROGRAMMING,500.0,"['greedy', 'math']",800,Easy,2,A,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2138,D,Antiamuny and Slider Movement,PROGRAMMING,2500.0,"['brute force', 'combinatorics', 'implementation', 'math', 'sortings']",2600,Expert,5,D,0,29,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0
+2138,B,Antiamuny Wants to Learn Swap,PROGRAMMING,1250.0,"['data structures', 'greedy', 'two pointers']",1900,Hard,3,B,0,29,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2138,A,Cake Assignment,PROGRAMMING,500.0,"['bitmasks', 'constructive algorithms', 'greedy']",1100,Easy,3,A,0,15,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2137,E,Mexification,PROGRAMMING,1250.0,"['brute force', 'implementation', 'math']",1500,Medium,3,E,0,12,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+2137,D,Replace with Occurrences,PROGRAMMING,1250.0,['constructive algorithms'],1200,Medium,1,D,0,24,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2137,C,Maximum Even Sum,PROGRAMMING,1250.0,"['brute force', 'greedy', 'implementation', 'math']",1100,Easy,4,C,0,16,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+2137,B,Fun Permutation,PROGRAMMING,1250.0,"['constructive algorithms', 'math', 'number theory']",900,Easy,3,B,0,15,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2137,A,Collatz Conjecture,PROGRAMMING,1250.0,"['constructive algorithms', 'math']",800,Easy,2,A,0,18,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2136,B,Like the Bitset,PROGRAMMING,1000.0,"['constructive algorithms', 'greedy', 'two pointers']",900,Easy,3,B,0,15,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2136,A,In the Dream,PROGRAMMING,500.0,"['greedy', 'math']",800,Easy,2,A,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2135,C,By the Assignment,PROGRAMMING,1750.0,"['binary search', 'bitmasks', 'combinatorics', 'dfs and similar', 'dsu', 'graphs', 'math']",2000,Hard,7,C,0,17,0,1,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2135,B,For the Champion,PROGRAMMING,1000.0,"['constructive algorithms', 'interactive', 'math']",1700,Medium,3,B,0,16,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+2135,A,Against the Difference,PROGRAMMING,500.0,"['data structures', 'dp']",1200,Medium,2,A,0,22,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2134,C,Even Larger,PROGRAMMING,1250.0,"['brute force', 'greedy', 'implementation']",1200,Medium,3,C,0,11,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2134,B,Add 0 or K,PROGRAMMING,1250.0,"['constructive algorithms', 'math', 'number theory']",1200,Medium,3,B,0,10,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2134,A,Painting With Two Colors,PROGRAMMING,500.0,"['constructive algorithms', 'implementation', 'math']",800,Easy,3,A,0,24,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+2133,D,Chicken Jockey,PROGRAMMING,2250.0,"['dp', 'greedy']",1900,Hard,2,D,0,14,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2133,C,The Nether,PROGRAMMING,1750.0,"['graphs', 'interactive']",1400,Medium,2,C,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2133,B,Villagers,PROGRAMMING,1000.0,['greedy'],800,Easy,1,B,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2133,A,Redstone?,PROGRAMMING,500.0,"['brute force', 'data structures', 'implementation', 'math']",800,Easy,4,A,0,9,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+2132,E,Arithmetics Competition,PROGRAMMING,1250.0,"['binary search', 'data structures', 'greedy', 'sortings', 'ternary search']",1700,Medium,5,E,0,23,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+2132,D,From 1 to Infinity,PROGRAMMING,1250.0,"['binary search', 'dp', 'implementation', 'math']",1600,Medium,4,D,0,18,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+2132,C2,The Cunning Seller (hard version),PROGRAMMING,1250.0,"['binary search', 'greedy', 'math']",1400,Medium,3,C,1,33,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2132,C1,The Cunning Seller (easy version),PROGRAMMING,1250.0,"['greedy', 'math']",1000,Easy,2,C,1,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2132,B,The Secret Number,PROGRAMMING,1250.0,['math'],900,Easy,1,B,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2132,A,Homework,PROGRAMMING,1250.0,"['brute force', 'implementation', 'strings']",800,Easy,3,A,0,8,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+2131,E,Adjacent XOR,PROGRAMMING,1250.0,"['brute force', 'greedy']",1400,Medium,2,E,0,12,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2131,D,Arboris Contractio,PROGRAMMING,1250.0,"['data structures', 'graphs', 'greedy', 'trees']",1400,Medium,4,D,0,18,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2131,C,Make it Equal,PROGRAMMING,1250.0,"['math', 'number theory']",1100,Easy,2,C,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2131,B,Alternating Series,PROGRAMMING,1250.0,"['constructive algorithms', 'greedy', 'math']",800,Easy,3,B,0,18,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2131,A,Lever,PROGRAMMING,1250.0,['math'],800,Easy,1,A,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2130,B,Pathless,PROGRAMMING,1000.0,['constructive algorithms'],1100,Easy,1,B,0,8,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2130,A,Submission is All You Need,PROGRAMMING,500.0,"['greedy', 'math']",800,Easy,2,A,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2129,B,Stay or Mirror,PROGRAMMING,1000.0,"['brute force', 'data structures', 'dp', 'greedy', 'sortings']",1600,Medium,5,B,0,14,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2129,A,Double Perspective,PROGRAMMING,500.0,"['constructive algorithms', 'dp', 'dsu', 'graphs', 'greedy', 'sortings']",1300,Medium,6,A,0,18,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2128,D,Sum of LDS,PROGRAMMING,1750.0,"['brute force', 'combinatorics', 'dp', 'greedy', 'math']",1600,Medium,5,D,0,10,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2128,C,Leftmost Below,PROGRAMMING,1250.0,"['greedy', 'math']",1200,Medium,2,C,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2128,B,Deque Process,PROGRAMMING,1000.0,"['constructive algorithms', 'greedy', 'sortings', 'two pointers']",1100,Easy,4,B,0,13,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+2128,A,Recycling Center,PROGRAMMING,500.0,"['greedy', 'sortings']",800,Easy,2,A,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2127,D,"Root was Built by Love, Broken by Destiny",PROGRAMMING,2000.0,"['combinatorics', 'dfs and similar', 'graphs', 'trees']",1800,Medium,4,D,0,41,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+2127,C,Trip Shopping,PROGRAMMING,1500.0,"['games', 'greedy', 'sortings']",1400,Medium,3,C,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2127,B,"Hamiiid, Haaamid... Hamid?",PROGRAMMING,1000.0,"['games', 'greedy']",1300,Medium,2,B,0,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2127,A,Mix Mex Max,PROGRAMMING,500.0,"['constructive algorithms', 'greedy', 'math']",800,Easy,3,A,0,11,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2126,E,"G-C-D, Unlucky!",PROGRAMMING,1250.0,"['math', 'number theory']",1400,Medium,2,E,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2126,D,This Is the Last Time,PROGRAMMING,1250.0,"['data structures', 'greedy', 'sortings']",1200,Medium,3,D,0,21,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2126,C,I Will Definitely Make It,PROGRAMMING,1250.0,"['greedy', 'sortings']",1100,Easy,2,C,0,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2126,B,No Casino in the Mountains,PROGRAMMING,1250.0,"['dp', 'greedy']",800,Easy,2,B,0,26,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2126,A,Only One Digit,PROGRAMMING,1250.0,"['brute force', 'implementation', 'math']",800,Easy,3,A,0,14,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+2125,D,Segments Covering,PROGRAMMING,1250.0,"['dp', 'math', 'probabilities']",1600,Medium,3,D,0,17,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+2125,C,Count Good Numbers,PROGRAMMING,1250.0,"['bitmasks', 'combinatorics', 'math', 'number theory']",1100,Easy,4,C,0,18,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2125,B,Left and Down,PROGRAMMING,1250.0,"['math', 'number theory']",900,Easy,2,B,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2125,A,Difficult Contest,PROGRAMMING,1250.0,"['constructive algorithms', 'implementation', 'sortings', 'strings']",800,Easy,4,A,0,17,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0
+2124,D,Make a Palindrome,PROGRAMMING,1750.0,"['greedy', 'sortings', 'two pointers']",1700,Medium,3,D,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+2124,C,Subset Multiplication,PROGRAMMING,1250.0,"['constructive algorithms', 'greedy', 'math', 'number theory']",1300,Medium,4,C,0,21,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2124,B,Minimise Sum,PROGRAMMING,1000.0,['greedy'],1000,Easy,1,B,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2124,A,Deranged Deletions,PROGRAMMING,500.0,"['greedy', 'sortings']",800,Easy,2,A,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2123,D,Binary String Battle,PROGRAMMING,1250.0,"['constructive algorithms', 'games', 'greedy']",1200,Medium,3,D,0,20,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2123,C,Prefix Min and Suffix Max,PROGRAMMING,1250.0,"['brute force', 'data structures']",1000,Easy,2,C,0,25,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2123,B,Tournament,PROGRAMMING,1250.0,['greedy'],800,Easy,1,B,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2123,A,Blackboard Game,PROGRAMMING,1250.0,['math'],800,Easy,1,A,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2122,C,Manhattan Pairs,PROGRAMMING,1500.0,"['constructive algorithms', 'geometry', 'greedy', 'math', 'sortings']",1700,Medium,5,C,0,15,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+2122,B,Pile Shuffling,PROGRAMMING,1000.0,"['greedy', 'math']",1100,Easy,2,B,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2122,A,Greedy Grid,PROGRAMMING,500.0,"['constructive algorithms', 'greedy']",800,Easy,2,A,0,11,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2121,E,Sponsor of Your Problems,PROGRAMMING,1250.0,"['dp', 'greedy', 'implementation', 'strings']",1500,Medium,4,E,0,24,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+2121,D,1709,PROGRAMMING,1250.0,"['implementation', 'sortings']",1300,Medium,2,D,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2121,C,Those Who Are With Us,PROGRAMMING,1250.0,"['greedy', 'implementation']",1200,Medium,2,C,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2121,B,Above the Clouds,PROGRAMMING,1250.0,"['constructive algorithms', 'greedy', 'strings']",800,Easy,3,B,0,16,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2121,A,Letter Home,PROGRAMMING,1250.0,"['brute force', 'math']",800,Easy,2,A,0,11,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2120,E,Lanes of Cars,PROGRAMMING,2500.0,"['binary search', 'dp', 'ternary search']",2300,Hard,3,E,0,13,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
